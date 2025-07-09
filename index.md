@@ -1,7 +1,8 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
-My icons
+# My icons
+**Click to copy**
 
 <script>const copy = url =>navigator.clipboard.writeText(url);</script>
 
