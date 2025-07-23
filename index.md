@@ -4,7 +4,7 @@
 # My icons
 **Click to copy**
 
-<script>const copy = url =>navigator.clipboard.writeText(url);</script>
+[/]: #(<script>copy=url=>navigator.clipboard.writeText(url);</script>)
 
 <style>a img {cursor:pointer;} </style>
 <p align="left">
